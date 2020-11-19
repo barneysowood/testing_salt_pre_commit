@@ -1,0 +1,7 @@
+---
+
+-   id: salt-lint
+    name: Salt-lint
+    description: This hook runs salt-lint.
+    entry: virtualenv/bin/salt-lint
+    language: script
